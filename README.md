@@ -1,5 +1,5 @@
 
-![ʻākohekohe](https://github.com/akohekohe/blob/main/img/akohekohe_photo.jpg?raw=true)
+![ʻākohekohe](https://github.com/grassfedreeve/akohekohe/blob/main/img/akohekohe_photo.jpg?raw=true)
 
 # ʻākohekohe
 26-key, column-staggered, unibody-split keyboard made with [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/). Named after the [ʻākohekohe bird](https://www.mauiforestbirds.org/akohekohe/), consider donating to the Maui Forest Bird Recovery Project. 
@@ -8,7 +8,7 @@ Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have
 
 # Keymap
 Example keymap for how you might use this many keys:
-![keymap](https://github.com/akohekohe/blob/main/img/example_keymap.svg)
+![keymap](https://raw.githubusercontent.com/grassfedreeve/akohekohe/main/img/example_keymap.svg?token=GHSAT0AAAAAACTVYPRXH7SLK7HHQCHEVM7YZU263RQ)
 
 ## BOM
 - 1 pcb
