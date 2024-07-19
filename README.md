@@ -2,7 +2,7 @@
 ![ʻākohekohe](https://github.com/grassfedreeve/akohekohe/blob/main/img/akohekohe_photo.jpg?raw=true)
 
 # ʻākohekohe
-26-key, column-staggered, unibody-split keyboard made with [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/). Named after the [ʻākohekohe bird](https://www.mauiforestbirds.org/akohekohe/), consider donating to the Maui Forest Bird Recovery Project. 
+26-key, column-staggered, unibody-split keyboard made with [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/). Named after the [ʻākohekohe bird](https://www.mauiforestbirds.org/akohekohe/), (“AH-kohay-kohay”), consider donating to the Maui Forest Bird Recovery Project. 
 
 Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have found. 
 
