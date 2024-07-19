@@ -1,5 +1,5 @@
 
-![ʻākohekohe](https://github.com/akohekohe/blob/main/img/akohekohe_photo.jpg?raw=true))
+![ʻākohekohe](https://github.com/akohekohe/blob/main/img/akohekohe_photo.jpg?raw=true)
 
 # ʻākohekohe
 26-key, column-staggered, unibody-split keyboard made with [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/). Named after the [ʻākohekohe bird](https://www.mauiforestbirds.org/akohekohe/), consider donating to the Maui Forest Bird Recovery Project. 
