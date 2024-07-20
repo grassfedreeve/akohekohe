@@ -7,7 +7,7 @@
 Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have found. 
 
 # Keymap
-Example keymap for how you might use this many keys:
+Example keymap for how you might use this many keys, created using caksoylar's great [keymap-drawer](https://github.com/caksoylar/keymap-drawer)
 ![keymap](https://github.com/grassfedreeve/akohekohe/blob/main/img/example_keymap.svg)
 
 ## BOM
