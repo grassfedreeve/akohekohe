@@ -27,7 +27,7 @@ That being said the matrix is the same as a Hummingbird so you can use hummingbi
 
 ## Inspiration & Thanks
 - jcmkk3's [rufous](https://github.com/jcmkk3/trochilidae#rufous) hummingbird variation. Of which I used the Ergogen config, routing, and footprints.
-- apfel's [ZilpZalp](https://github.com/kilipan/zilpzalp) keyboard
+- apfel's [zilpzalp](https://github.com/kilipan/zilpzalp) keyboard
 - PJE66's [hummingbird](https://github.com/PJE66/hummingbird) keyboard
 - Weteor's [grumpy](https://github.com/weteor/Grumpy) and [fitis](https://github.com/weteor/fitis)
 - apsu's [aptmak](https://github.com/apsu/aptmak) keyboard layout
