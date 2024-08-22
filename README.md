@@ -15,7 +15,7 @@ Alternative base layouts, Colemak DH, [Bird](https://github.com/jcmkk3/bird-layo
 ## BOM
 - 1 pcb
 - 1 Seeed XIAO compatible controller
-- 26 sot23 diodes
+- 26 sod123 diodes
 - 26 kailh choc low profile switches
 - 26 keycaps
 
