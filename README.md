@@ -9,7 +9,7 @@ Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have
 # Keymap
 Example keymap for how you might use this many keys, created using caksoylar's great [keymap-drawer](https://github.com/caksoylar/keymap-drawer)
 ![keymap](https://github.com/grassfedreeve/akohekohe/blob/main/img/example_keymap.svg)
-Alternative base layouts, Colemak DH and [Bird](https://github.com/jcmkk3/bird-layout) are also great options:
+Alternative base layouts, Colemak DH, [Bird](https://github.com/jcmkk3/bird-layout), and a Gallium mod shared to me by [ssbb](https://github.com/ssbb) are also great options:
 ![altbase](https://github.com/grassfedreeve/akohekohe/blob/main/img/alt_base.svg)
 
 ## BOM
