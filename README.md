@@ -24,7 +24,7 @@ wireless parts (optional)
 - [5mm pogo pin](https://www.aliexpress.com/item/1005006095992803.html?spm=a2g0o.order_list.order_list_main.35.78fd1802qp0XdF)
 - [jumper](https://www.aliexpress.com/item/32827199777.html?spm=a2g0o.order_list.order_list_main.30.78fd1802qp0XdF)
 ## Firmware
-ZMK is what I use and have setup a shield for: [example config](https://github.com/grassfedreeve/zmk-config-akohekohe/) 
+ZMK is what I use and have setup a module for: [ākohekohe ZMK Module](https://github.com/grassfedreeve/zmk-keyboards-akohekohe) 
 That being said the matrix is the same as a Hummingbird so you can use hummingbird firmware just fine on whichever firmware you enjoy.
 
 ## Inspiration & Thanks
