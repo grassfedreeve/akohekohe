@@ -9,7 +9,7 @@ Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have
 Two versions for choc switches are available:
 - The default-spacing solder-only version (in the [pcb](https://github.com/grassfedreeve/akohekohe/tree/main/pcb) directory)
 - The minimal-choc-spacing solder-only version with the tightest spacing that choc V1 switches allow for (in the [pcb_min_choc](https://github.com/grassfedreeve/akohekohe/tree/main/pcb_min_choc) directory)
-  **Note:** You will have to procure minimal-spacing keycaps. I am not aware of any commercial solution. Recommendation: [Philadelphia Minimalist](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles/blob/master/Philadelphia_Minimalist.scad) by [Pseudoku](https://github.com/pseudoku)
+  **Note:** You will have to procure min-spacing keycaps. I am not aware of any commercial solution. Recommendation: [Philadelphia Minimalist](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles/blob/master/Philadelphia_Minimalist.scad) by [Pseudoku](https://github.com/pseudoku). There are also currently no 1.5u min-space keycaps, these will need to be generated.
 
 **Warning:** The min-choc-spacing version has not been tested yet!
 
