@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2024-09-08T16:16:33+10:00"
+    "CreationDate": "2024-09-08T16:42:39+10:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "akohekohe",
-      "GUID": "616b6f68-656b-46f6-9865-2e6b69636164",
+      "Name": "akohekohe_min_choc",
+      "GUID": "616b6f68-656b-46f6-9865-5f6d696e5f63",
       "Revision": "0.1"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "akohekohe-F_Cu.gbr",
+      "Path": "akohekohe_min_choc-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-B_Cu.gbr",
+      "Path": "akohekohe_min_choc-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-F_Paste.gbr",
+      "Path": "akohekohe_min_choc-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-B_Paste.gbr",
+      "Path": "akohekohe_min_choc-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-F_Silkscreen.gbr",
+      "Path": "akohekohe_min_choc-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-B_Silkscreen.gbr",
+      "Path": "akohekohe_min_choc-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "akohekohe-F_Mask.gbr",
+      "Path": "akohekohe_min_choc-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "akohekohe-B_Mask.gbr",
+      "Path": "akohekohe_min_choc-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "akohekohe-Edge_Cuts.gbr",
+      "Path": "akohekohe_min_choc-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
