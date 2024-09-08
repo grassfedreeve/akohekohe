@@ -6,6 +6,13 @@
 
 Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have found. 
 
+Two versions for choc switches are available:
+- The default-spacing solder-only version (in the [pcb](https://github.com/grassfedreeve/akohekohe/tree/main/pcb) directory)
+- The minimal-choc-spacing solder-only version with the tightest spacing that choc V1 switches allow for (in the [pcb_min_choc](https://github.com/grassfedreeve/akohekohe/tree/main/pcb_min_choc) directory)
+  **Note:** You will have to procure minimal-spacing keycaps. I am not aware of any commercial solution. Recommendation: [Philadelphia Minimalist](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles/blob/master/Philadelphia_Minimalist.scad) by [Pseudoku](https://github.com/pseudoku)
+
+**Warning:** The min-choc-spacing version has not been tested yet!
+
 # Keymap
 Example keymap for how you might use this many keys, created using caksoylar's great [keymap-drawer](https://github.com/caksoylar/keymap-drawer)
 ![keymap](https://github.com/grassfedreeve/akohekohe/blob/main/img/example_keymap.svg)
