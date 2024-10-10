@@ -379,7 +379,7 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(427, 73) rotate(-22.0)" class="key keypos-5">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">PrtSc</text>
+<text x="0" y="0" class="key tap">Home</text>
 </g>
 <g transform="translate(475, 37) rotate(-22.0)" class="key keypos-6">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -387,7 +387,7 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(540, 28) rotate(-19.0)" class="key keypos-7">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Home</text>
+<text x="0" y="0" class="key tap">End</text>
 </g>
 <g transform="translate(28, 119) rotate(14.0)" class="key keypos-8">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -435,7 +435,7 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(634, 119) rotate(-14.0)" class="key keypos-17">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">End</text>
+<text x="0" y="0" class="key tap">Insert</text>
 </g>
 <g transform="translate(86, 137) rotate(19.0)" class="key keypos-18">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -1661,7 +1661,7 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(0, 28)">
 <g transform="translate(28, 28)" class="key  combo-separate keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key  combo-separate"/>
-<text x="0" y="0" class="key  combo-separate tap">DELWORD</text>
+<text x="0" y="0" class="key  combo-separate tap">PRTSC</text>
 </g>
 <g transform="translate(61, 72) rotate(19.0)" class="key keypos-1">
 <rect rx="6" ry="6" x="-12" y="-12" width="24" height="24" class="key"/>
