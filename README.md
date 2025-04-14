@@ -7,7 +7,7 @@
 Basically a ZilpZalp with thumbs cut off, and the most comfortable layout I have found. 
 
 Two versions for choc switches are available:
-- The default-spacing solder-only version (in the [pcb](https://github.com/grassfedreeve/akohekohe/tree/main/pcb) directory)
+- The default-spacing solder-only version with silkscreen art and the original without art(in the [pcb](https://github.com/grassfedreeve/akohekohe/tree/main/pcb) directory)
 - The minimal-choc-spacing solder-only version with the tightest spacing that choc V1 switches allow for (in the [pcb_min_choc](https://github.com/grassfedreeve/akohekohe/tree/main/pcb_min_choc) directory)
   **Note:** You will have to procure min-spacing keycaps. I am not aware of any commercial solution. Recommendation: [Philadelphia Minimalist](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles/blob/master/Philadelphia_Minimalist.scad) by [Pseudoku](https://github.com/pseudoku). There are also currently no 1.5u min-space keycaps, these will need to be generated.
 
@@ -35,6 +35,7 @@ ZMK is what I use and have setup a module for: [ākohekohe ZMK Module](https://g
 That being said the matrix is the same as a Hummingbird so you can use hummingbird firmware just fine on whichever firmware you enjoy.
 
 ## Inspiration & Thanks
+- perce for making the stunning artwork | [madebyperce](https://madebyperce.com/) | [kofi](https://ko-fi.com/madebyperce)
 - jcmkk3's [rufous](https://github.com/jcmkk3/trochilidae#rufous) hummingbird variation. Of which I used the Ergogen config, routing, and footprints.
 - apfel's [zilpzalp](https://github.com/kilipan/zilpzalp) keyboard
 - PJE66's [hummingbird](https://github.com/PJE66/hummingbird) keyboard
