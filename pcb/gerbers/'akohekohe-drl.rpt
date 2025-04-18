@@ -1,0 +1,29 @@
+Drill report for 'akohekohe.kicad_pcb
+Created on 2025-04-18T11:19:54+1000
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file ''akohekohe-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (41 holes)
+    T2  0.900mm  0.0354"  (1 hole)
+    T3  1.000mm  0.0394"  (14 holes)
+    T4  1.092mm  0.0430"  (3 holes)
+    T5  1.270mm  0.0500"  (56 holes)
+
+    Total plated holes count 115
+
+
+Drill file ''akohekohe-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.702mm  0.0670"  (56 holes)
+    T2  2.200mm  0.0866"  (3 holes)
+    T3  3.429mm  0.1350"  (28 holes)
+
+    Total unplated holes count 87
