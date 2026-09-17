@@ -34,6 +34,16 @@ wireless parts (optional)
 ZMK is what I use and have setup a module for: [ākohekohe ZMK Module](https://github.com/grassfedreeve/zmk-keyboards-akohekohe) 
 That being said the matrix is the same as a Hummingbird so you can use hummingbird firmware just fine on whichever firmware you enjoy.
 
+
+## Art
+perce came in and saved the day with amazing art for my keyboards, some quick photos of this are below:
+
+![back](https://github.com/grassfedreeve/akohekohe/blob/main/img/art_back.jpg?raw=true)
+
+![front](https://github.com/grassfedreeve/akohekohe/blob/main/img/art_front.jpg?raw=true)
+
+
+
 ## Inspiration & Thanks
 - perce for making the stunning artwork | [madebyperce](https://madebyperce.com/) | [kofi](https://ko-fi.com/madebyperce)
 - jcmkk3's [rufous](https://github.com/jcmkk3/trochilidae#rufous) hummingbird variation. Of which I used the Ergogen config, routing, and footprints.
