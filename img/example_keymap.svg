@@ -381,11 +381,11 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(389, 130) rotate(-22.0)" class="key keypos-4">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">End</text>
+<text x="0" y="0" class="key tap">PgUp</text>
 </g>
 <g transform="translate(433, 81) rotate(-22.0)" class="key keypos-5">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">PrtSc</text>
+<text x="0" y="0" class="key tap">Home</text>
 </g>
 <g transform="translate(481, 44) rotate(-22.0)" class="key keypos-6">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -393,7 +393,8 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(546, 36) rotate(-19.0)" class="key keypos-7">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Home</text>
+<text x="0" y="0" class="key tap">End</text>
+<text x="0" y="24" class="key hold">Menu</text>
 </g>
 <g transform="translate(34, 126) rotate(14.0)" class="key keypos-8">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -448,10 +449,12 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(92, 145) rotate(19.0)" class="key keypos-18">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">Cut</text>
+<text x="0" y="24" class="key hold"><tspan style="font-size: 78%">Copy Link</tspan></text>
 </g>
 <g transform="translate(152, 151) rotate(22.0)" class="key keypos-19">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">Copy</text>
+<text x="0" y="24" class="key hold"><tspan style="font-size: 70%">Plain Copy</tspan></text>
 </g>
 <g transform="translate(200, 187) rotate(22.0)" class="key keypos-20">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
